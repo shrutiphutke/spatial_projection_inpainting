@@ -1,3 +1,2 @@
-# spatial_projection_inpainting
+# Coming Soon...
 Code for paper Image inpainting via spatial projections
-Abstract:

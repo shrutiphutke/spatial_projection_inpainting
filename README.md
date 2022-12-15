@@ -4,11 +4,6 @@ PyTorch implementation of [Image Inpainting via Spatial Projections](https://www
 
 <p align="center"><img src="architecture.png" alt="SPL" width="60%"></p>
 
-**ENAS** reduce the computational requirement (GPU-hours) of [Neural Architecture Search](https://arxiv.org/abs/1611.01578) (**NAS**) by 1000x via parameter sharing between models that are subgraphs within a large computational graph. SOTA on `Penn Treebank` language modeling.
-
-**\*\*[Caveat] Use official code from the authors: [link](https://github.com/melodyguan/enas)\*\***
-
-
 ## Prerequisites
 
 - Python 3.6+

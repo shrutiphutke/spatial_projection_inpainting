@@ -21,7 +21,7 @@ Keep your dataset by placing images like:
     │   │   ├── 2.png 
     │   │   └── ...
     │   └── mask
-    │       ├── 1.jpg
+    │       ├── 1.png
     │       └── ...
     ├── places2
     │   ├── input

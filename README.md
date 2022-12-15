@@ -2,7 +2,7 @@
 
 PyTorch implementation of [Image Inpainting via Spatial Projections](https://www.sciencedirect.com/science/article/pii/S0031320322005209#:~:text=A%20novel%20architecture%20is%20proposed,without%20any%20self%2Dattention%20mechanism.&text=A%20spatial%20projection%20layer%20is,consistency%20in%20the%20inpainted%20image.).
 
-<p align="center"><img src="architecture.png" alt="SPL" width="60%"></p>
+<p align="center"><img src="architecture.jpg" alt="SPL" width="60%"></p>
 
 ## Prerequisites
 
